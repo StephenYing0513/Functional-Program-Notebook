@@ -14,7 +14,7 @@ let main args =
     printfn ""
     
     // Simple greeting
-    printfn "Hello, World!"
+    printfn "Hello, World! Updates in F# are fun!"
     printfn ""
     
     // Interactive greeting
