@@ -1,0 +1,39 @@
+# Build results
+bin/
+obj/
+out/
+Debug/
+Release/
+
+# Rider / JetBrains
+.idea/
+*.DotSettings.user
+
+# VS Code
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+
+# Logs & temp files
+*.log
+*.tmp
+*.temp
+*.bak
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+
+# Test results & coverage
+TestResult*/
+coverage*/
+*.coverage
+*.coveragexml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
