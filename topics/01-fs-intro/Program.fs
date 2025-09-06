@@ -48,5 +48,7 @@ let main args =
     printfn ""
     printfn "Press any key to exit..."
     Console.ReadKey() |> ignore
+
+    let add1 (x : int) : int = x + 1
     
     0 // Return success code
